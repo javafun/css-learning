@@ -1,0 +1,16 @@
+.btnConSprite
+    {
+       width: 211px;
+      height: 64px;
+      background: url(btnS.png)0 0;
+      border: black solid 0px;
+      cursor: pointer;
+    }
+.btnConSprite:hover
+    {
+       background: url(btnS.png)0 135px;
+    }
+.btnConSprite:active
+    {
+       background: url(btnS.png)0 70px;
+    }
